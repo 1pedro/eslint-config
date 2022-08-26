@@ -1,16 +1,16 @@
 {
-  "name": "@byintera/eslint-config",
+  "name": "@1pedro/eslint-config",
   "version": "0.1.13",
   "description": "Shared ESLint config",
-  "author": "Intera <tech@byintera.com>",
+  "author": "Pedro <pedrojefferson.dev@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/by-intera/eslint-config"
+    "url": "https://github.com/1pedro/eslint-config"
   },
   "bugs": {
-    "url": "https://github.com/by-intera/eslint-config/issues"
+    "url": "https://github.com/1pedro/eslint-config/issues"
   },
-  "homepage": "https://github.com/by-intera/eslint-config",
+  "homepage": "https://github.com/1pedro/eslint-config",
   "main": "index.js",
   "files": [
     "index.js"
@@ -58,5 +58,5 @@
     "jest": "^27.0.6",
     "typescript": "^4.3.5"
   },
-  "prettier": "@byintera/prettier-config"
+  "prettier": "@1pedro/prettier-config"
 }

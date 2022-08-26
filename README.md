@@ -1,17 +1,15 @@
-# @byintera/eslint-config
+# @1pedro/eslint-config
 
-[![npm version](https://badge.fury.io/js/%40byintera%2Feslint-config.svg)](https://badge.fury.io/js/%40byintera%2Feslint-config)
-
-Intera's shared [ESLint](https://eslint.org/) configuration.
+Pedro's shared [ESLint](https://eslint.org/) configuration.
 
 ## Setup
 
 1. Install the package.
 ```sh
-$ npm install -D @byintera/eslint-config
+$ npm install -D @1pedro/eslint-config
 ```
 
-2. Add `"extends": ["@byintera/eslint-config"]` to your .eslintrc
+2. Add `"extends": ["@1pedro/eslint-config"]` to your .eslintrc
 
 [Read more on shared configurations.](https://eslint.org/docs/user-guide/configuring/#extending-configuration-files)
 
